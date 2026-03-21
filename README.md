@@ -4,7 +4,27 @@
 
 The Spring 2026 Web Applications class volleyed an impressive stream of creative energy into their course planners. Their dedication went above the gradebook. In order to more properly recognize their efforts a complete talley of their votes from previous projects will be put forward and this README will outline particular features that distinguished these teams from the crowd. Cultivated statistics across the sections will be presented.
 
-## The lineup (no particular order)
+## Quick Project History Reference
+
+These are the links to the respective team's last accessible projects
+
+1. Stephen Reid, Benjamin Merrell, Jaden Butler (Team bmr | Seciont 02)
+	- [project 2](http://judah.cedarville.edu/~sreid/planning/project2.html)
+2. Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
+	- [project 3](http://judah.cedarville.edu/~sreid/planning/project2.html)
+3. Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
+	- [project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html)
+4. Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
+	- [project 3](http://judah.cedarville.edu/~jcarrol/ape/project3/project3.html)
+5. Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
+	- [project 3](http://judah.cedarville.edu/~puth/project3/project3.html)
+6. Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
+	- [project 3](http://judah.cedarville.edu/~dlamore/project3/project3.html)
+7. Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
+	- [project 3](http://judah.cedarville.edu/~wallen/ape/project3/project3.html)
+
+
+## The Lineup
 
 1. Stephen Reid, Benjamin Merrell, Jaden Butler (Team bmr | Section 02)
 	- project list:
@@ -64,7 +84,7 @@ The Spring 2026 Web Applications class volleyed an impressive stream of creative
 				- password: Green2red
 		- [what they did right](#hutchingslamoreauxpedersen)
 
-7. Clara Reeder, Esther Solokha, Jade Wallen
+7. Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
 	- project list:
 		- [project 1](http://judah.cedarville.edu/~wallen/ape/project1/project1.html) (working)
 		- [project 2](http://judah.cedarville.edu/~wallen/ape/project2/project2.html) (working)
