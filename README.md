@@ -8,21 +8,13 @@ The Spring 2026 Web Applications class volleyed an impressive stream of creative
 
 These are the links to the respective team's last accessible projects
 
-1. Stephen Reid, Benjamin Merrell, Jaden Butler (Team bmr | Seciont 02)
-	- [project 2](http://judah.cedarville.edu/~sreid/planning/project2.html)
-2. Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
-	- [project 3](http://judah.cedarville.edu/~sreid/planning/project2.html)
-3. Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
-	- [project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html)
-4. Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
-	- [project 3](http://judah.cedarville.edu/~jcarrol/ape/project3/project3.html)
-5. Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
-	- [project 3](http://judah.cedarville.edu/~puth/project3/project3.html)
-6. Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
-	- [project 3](http://judah.cedarville.edu/~dlamore/project3/project3.html)
-7. Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
-	- [project 3](http://judah.cedarville.edu/~wallen/ape/project3/project3.html)
-
+1. [Project 2](http://judah.cedarville.edu/~sreid/planning/project2.html) from Stephen Reid, Benjamin Merrell, Jaden Butler (Team bmr | Section 02)
+2. [Project 3](http://judah.cedarville.edu/~sreid/planning/project2.html) from Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
+3. [Project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html) from Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
+4. [Project 3](http://judah.cedarville.edu/~jcarrol/ape/project3/project3.html) from Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
+5. [Project 3](http://judah.cedarville.edu/~puth/project3/project3.html) from Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
+6. [Project 3](http://judah.cedarville.edu/~dlamore/project3/project3.html) from Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
+7. [Project 3](http://judah.cedarville.edu/~wallen/ape/project3/project3.html) from Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
 
 ## The Lineup
 
@@ -33,8 +25,8 @@ These are the links to the respective team's last accessible projects
 		- [project 3](http://judah.cedarville.edu/~butler/planning/project3.html) (not working)
 		- [project 4](http://judah.cedarville.edu/~butler/planning/login.php) (signup working)
 			- login with credentials:
-				user: JohnUser
-				password: Green2red
+				- user: JohnUser
+				- password: Green2red
 	- [what they did right](#reidmerrelbutler)
 
 2. Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
