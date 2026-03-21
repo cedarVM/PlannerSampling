@@ -8,12 +8,12 @@ The Spring 2026 Web Applications class volleyed an impressive stream of creative
 
 These are the links to the respective team's last accessible projects
 
-1. [Project 2](http://judah.cedarville.edu/~sreid/planning/project2.html) from Stephen Reid, Benjamin Merrell, Jaden Butler (Team bmr | Section 02)
-2. [Project 3](http://judah.cedarville.edu/~braiste/CS3220/project3/project3.html) from Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
-3. [Project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html) from Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
-4. [Project 3](http://judah.cedarville.edu/~jcarrol/ape/project3/project3.html) from Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
-5. [Project 3](http://judah.cedarville.edu/~puth/project3/project3.html) from Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
-6. [Project 3](http://judah.cedarville.edu/~dlamore/project3/project3.html) from Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
+1. [Project 3](http://judah.cedarville.edu/~dlamore/project3/project3.html) from Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
+2. [Project 2](http://judah.cedarville.edu/~sreid/planning/project2.html) from Stephen Reid, Benjamin Merrell, Jaden Butler (Team bmr | Section 02)
+3. [Project 3](http://judah.cedarville.edu/~braiste/CS3220/project3/project3.html) from Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
+4. [Project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html) from Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
+5. [Project 3](http://judah.cedarville.edu/~jcarrol/ape/project3/project3.html) from Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
+6. [Project 3](http://judah.cedarville.edu/~puth/project3/project3.html) from Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
 7. [Project 3](http://judah.cedarville.edu/~wallen/ape/project3/project3.html) from Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
 8. [project 3](http://judah.cedarville.edu/~louden/project3/) from Cody Tibbetts, Kale Burns, Matthew Louden (Team 2men1ape | Section 01)
 
@@ -113,6 +113,32 @@ These are the links to the respective team's last accessible projects
 				- password: Green2red
 	- vote: 5b, 3s
 	- prev_vote: 5b, 4s, 7g
+
+## Author's Opinion
+
+<a name="hutchingslamoreauxpedersen"></a>
+# Team JaVic
+
+There is a reason why this planner won out four separate times despite the tight roster for section 01.
+
+<a name="reidmerrelbutler"></a>
+# Team bmr
+
+The color palette is mute. It is succinct, yet still distinct. Direction and spacing are incredibly well thought-out. There are a number of collapsible/expressive toggles that can help declutter what is already a very clean webpage. There is multiplan support, and while the user is bound to edit courses inside ongoing or future semesters, the restriction is purely decorative as the user can "override" the write restriction using the toggle in settings menu in the upper right of the yearly view. It is worth noting also that upon registration the user is asked for the period in which they registered for Cedarville, thereby flexibly moving the planner view to their real schedule. This is an important application detail, seeing as planners exist outside of an environment where actual user data is available.
+
+Stuffing both the GPA and credit hour calculation inside of a semester is a testament to how well space was utilized inside this planner. This is a ridiculous feat of visual engineering. I love it.
+
+The "My Program" field is a bit weird. The user gives their program details upon signup. Perhaps this could have been renamed to "View Program"
+
+The automatic yearly credit calculation inside the right collapsible is amazing.
+
+The "Course Catalog" button's only functionality being a highlight elsewhere on the page is very strange.
+
+How to trigger "Schedule Warnings"?
+
+No indication that a course is available on a given semester.
+
+Indication that a course is a satisfied requirement is clean and intuitive.
 
 ## Statistics
 
