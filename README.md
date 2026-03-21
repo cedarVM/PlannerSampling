@@ -15,6 +15,7 @@ These are the links to the respective team's last accessible projects
 5. [Project 3](http://judah.cedarville.edu/~puth/project3/project3.html) from Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
 6. [Project 3](http://judah.cedarville.edu/~dlamore/project3/project3.html) from Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
 7. [Project 3](http://judah.cedarville.edu/~wallen/ape/project3/project3.html) from Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
+8. [project 3](http://judah.cedarville.edu/~louden/project3/) from Cody Tibbetts, Kale Burns, Matthew Louden (Team 2men1ape | Section 01)
 
 ## The Full Lineup
 
