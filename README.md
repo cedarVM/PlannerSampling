@@ -29,7 +29,6 @@ These are the links to the respective team's last accessible projects
 				- user: JohnUser
 				- password: Green2red
 	- [what they did right](#reidmerrelbutler)
-	- vote: 2s, 11g = 37
 
 2. Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
 	- project list:
@@ -37,7 +36,7 @@ These are the links to the respective team's last accessible projects
 		- [project 2](http://judah.cedarville.edu/~reynold/ape/p2/project2.html) (working)
 		- [project 3](http://judah.cedarville.edu/~braiste/CS3220/project3/project3.html) (working)
 		- [project 4](http://judah.cedarville.edu/~sigler/project4/project4-wymah/login.php) (no signup)
-	- vote: 5b, 4s, 1g = 16
+	- [what they did right](#braistedsiglerreynolds)
 
 3. Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
 	- project list:
@@ -45,7 +44,7 @@ These are the links to the respective team's last accessible projects
 		- [project 2](http://judah.cedarville.edu/~eniola/ape/project2/project2.html) (working)
 		- [project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html) (working)
 		- [project 4](http://judah.cedarville.edu/~eniola/ape/project4/login.php) (no signup)
-	- vote: 3b, 3s, 1g = 12
+	- [what they did right](#)
 
 4. Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
 	- project list:
@@ -57,7 +56,6 @@ These are the links to the respective team's last accessible projects
 				- user: JohnUser
 				- password: Green2red
 	- [what they did right](#carrollmcdougallnitzsche)
-	- vote: 4b, 3s, 4g = 22
 
 5. Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
 	- project list:
@@ -69,7 +67,6 @@ These are the links to the respective team's last accessible projects
 				- user: 2718705
 				- password: Green2red
 	- [what they did right](#puthberlielarsen)
-	- vote: 3b, 3s = 9
 
 6. Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
 	- project list:
@@ -81,7 +78,6 @@ These are the links to the respective team's last accessible projects
 				- user: mlouden@cedarville.edu
 				- password: Green2red
 	- [what they did right](#hutchingslamoreauxpedersen)
-	- vote: 1b, 2s, 15g = 50
 
 7. Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
 	- project list:
@@ -93,7 +89,6 @@ These are the links to the respective team's last accessible projects
 				- user: JohnUser
 				- password: Green2red
 	- [what they did right](#reedersolokhawallen)
-	- vote: 4g, 6s, 5g = 31
 
 8. Cody Tibbetts, Kale Burns, Matthew Louden (Team 2men1ape | Section 01)
 	- project list:
@@ -104,7 +99,7 @@ These are the links to the respective team's last accessible projects
 			- login with credentials:
 				- user: mllegoman2@gmail.com
 				- password: Green2red
-	- vote: 5b, 3s = 11
+	- [what they did right](#)
 
 # Author's Opinion
 
@@ -153,7 +148,7 @@ wymah            [][][][       25 * 1.5
 2men1ape         [][][][       34
 writers block    [][][]        22 * 1.5
 Sushi            [][][]        29
-http 451         [][           17 * 1.5
+http 451         [][           17
 404              [             4
 ```
 
@@ -166,8 +161,8 @@ JaViC            [][][][][]    50
 Sushi            [][][]        31
 wymah            [][][         16 * 1.5
 writers block    [][           12 * 1.5
-http 451         []            9
 2men1ape         []            11
+http 451         []            9
 ```
 
 # Difficulties
