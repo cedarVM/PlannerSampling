@@ -30,7 +30,6 @@ These are the links to the respective team's last accessible projects
 				- password: Green2red
 	- [what they did right](#reidmerrelbutler)
 	- vote: 2s, 11g = 37
-	- prev_vote: 1b, 1s, 10g = 33
 
 2. Daniel Braisted, Nicolas Sigler, Mason Reynolds (Team wymah | Section 02)
 	- project list:
@@ -39,7 +38,6 @@ These are the links to the respective team's last accessible projects
 		- [project 3](http://judah.cedarville.edu/~braiste/CS3220/project3/project3.html) (working)
 		- [project 4](http://judah.cedarville.edu/~sigler/project4/project4-wymah/login.php) (no signup)
 	- vote: 5b, 4s, 1g = 16
-	- prev_vote: 1b, 6s, 4g = 25
 
 3. Gabrielle Eniola, Grace Hawk, Lauren Weinmann (Team writers block | Section 02)
 	- project list:
@@ -48,7 +46,6 @@ These are the links to the respective team's last accessible projects
 		- [project 3](http://judah.cedarville.edu/~eniola/ape/project3/project3.html) (working)
 		- [project 4](http://judah.cedarville.edu/~eniola/ape/project4/login.php) (no signup)
 	- vote: 3b, 3s, 1g = 12
-	- prev_vote: 3b, 5s, 3g = 22
 
 4. Joseph Carroll, Andrew McDougall, Elijah Nitzsche (Team 404 | Section 02)
 	- project list:
@@ -61,7 +58,6 @@ These are the links to the respective team's last accessible projects
 				- password: Green2red
 	- [what they did right](#carrollmcdougallnitzsche)
 	- vote: 4b, 3s, 4g = 22
-	- prev_vote: 2b, 1s = 4
 
 5. Brennen Puth, Nathan Berlie, Levi Larsen (Team http 451 | Section 01)
 	- project list:
@@ -74,7 +70,6 @@ These are the links to the respective team's last accessible projects
 				- password: Green2red
 	- [what they did right](#puthberlielarsen)
 	- vote: 3b, 3s = 9
-	- prev_vote: 1b, 2s, 4g = 17
 
 6. Caleb Ellis-Hutchings, David Lamoreaux, Joshua Pedersen (Team JaViC | Section 01)
 	- project list:
@@ -87,7 +82,6 @@ These are the links to the respective team's last accessible projects
 				- password: Green2red
 	- [what they did right](#hutchingslamoreauxpedersen)
 	- vote: 1b, 2s, 15g = 50
-	- prev_vote: 2b, 4s, 9g = 37
 
 7. Clara Reeder, Esther Solokha, Jade Wallen (Team Salo and Sushi | Section 01)
 	- project list:
@@ -100,7 +94,6 @@ These are the links to the respective team's last accessible projects
 				- password: Green2red
 	- [what they did right](#reedersolokhawallen)
 	- vote: 4g, 6s, 5g = 31
-	- prev_vote: 3b, 7s, 4g = 29
 
 8. Cody Tibbetts, Kale Burns, Matthew Louden (Team 2men1ape | Section 01)
 	- project list:
@@ -112,7 +105,6 @@ These are the links to the respective team's last accessible projects
 				- user: mllegoman2@gmail.com
 				- password: Green2red
 	- vote: 5b, 3s = 11
-	- prev_vote: 5b, 4s, 7g = 34
 
 # Author's Opinion
 
@@ -146,7 +138,7 @@ Indication that a course is a satisfied requirement is clean and intuitive.
 
 Statistics are taken from Professor Knoerr's Student Awards Programme (for projects 2 and 4). Statistics represent votes inside the respective section where the team originates. No teams voted across sections. This leads to a misweighted system, where section 02 (19 students) effectively had less say with their respective votes. Each vote from section 01 (30 students) outweighed a section two vote by a factor of 1.5. This factor is remedied in the data.
 
-The remedy is a point based system where the bronze, silver, and gold marks are replaced by an amount of points. bronze is a single point, a silver vote is worth 2, and a gold vote is worth 3.
+The remedy is a point based system where the bronze, silver, and gold marks are replaced by an amount of points. Bronze is a single point, a silver vote is worth 2, and a gold vote is worth 3.
 
 A team's total points are then multiplied by 3/2 if the team is in section 02.
 
@@ -155,29 +147,27 @@ A team's total points are then multiplied by 3/2 if the team is in section 02.
 ## Project 2 Stats:
 
 ```
-Team bmr
-[][][][][]
+bmr              [][][][][]    33 * 1.5
+JaViC            [][][][       37
+wymah            [][][][       25 * 1.5
+2men1ape         [][][][       34
+writers block    [][][]        22 * 1.5
+Sushi            [][][]        29
+http 451         [][           17 * 1.5
+404              [             4
+```
 
-wymah
-[][][][
+## Project 4 Stats:
 
-writers block
-[][][]
-
-404
-[
-
-http 451
-[][
-
-JaViC
-[][][][
-
-Sushi
-[][][]
-
-2men1ape
-[][][][
+```
+bmr              [][][][][][   37 * 1.5
+JaViC            [][][][][]    50
+404              [][][][       22 * 1.5
+Sushi            [][][]        31
+wymah            [][][         16 * 1.5
+writers block    [][           12 * 1.5
+http 451         []            9
+2men1ape         []            11
 ```
 
 # Difficulties
