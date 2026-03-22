@@ -119,7 +119,7 @@ These are the links to the respective team's last accessible projects
 <a name="hutchingslamoreauxpedersen"></a>
 # Team JaVic
 
-There is a reason why this planner won out four separate times despite the tight roster for section 01.
+There is a reason why this planner won first place four separate times despite the tightly competitive roster for section 01. The interface is unpresuming and still articulates a great deal of power. Distinct functionalities are organized apart from one another, and related functionalities are close. Inspecting course information and dragging courses to distant semesters share the same click functionality. The search function is divided between an immediate and dedicated view. User information is strictly contained to the top rightmost widget and is separated from the rest of the view. Course removal is easy and intuitive. The dynamic space allocation on semesters leads to visual unification and responsiveness. 
 
 <a name="reidmerrelbutler"></a>
 # Team bmr
