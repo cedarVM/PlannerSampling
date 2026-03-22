@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Spring 2026 Web Applications class volleyed an impressive stream of creative energy into their course planners. Their dedication went above the gradebook. In order to more properly recognize their efforts a complete talley of their votes from previous projects will be put forward and this README will outline particular features that distinguished these teams from the crowd. Cultivated statistics across the sections will be presented.
+The Spring 2026 Web Applications class enjoyed an impressive stream of creative energy. Their dedication went above the gradebook. In order to more properly recognize their efforts a complete talley of their votes from previous projects will be put forward and this README will outline particular features that distinguished these teams from the crowd. Cultivated statistics across the sections will be presented.
 
 ## Quick Project History Reference
 
